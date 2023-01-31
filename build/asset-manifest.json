@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.916675e7.css",
+    "main.js": "/static/js/main.a0cb199e.js",
+    "static/media/resume-builder.png": "/static/media/resume-builder.3698baa25c25452a39d5.png",
+    "static/media/netflix.jpg": "/static/media/netflix.616397b93111b672e905.jpg",
+    "static/media/Logo.png": "/static/media/Logo.0de7324799e45df17ad2.png",
+    "static/media/node-express.png": "/static/media/node-express.074ba9f7668da3b94e8f.png",
+    "static/media/java.png": "/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/cpp_logo.png": "/static/media/cpp_logo.053a898d752aef72651e.png",
+    "static/media/MongoDB.jpg": "/static/media/MongoDB.7f8d1fa4014d58f7e782.jpg",
+    "static/media/reactjs.png": "/static/media/reactjs.fd373eec9017cf21b26d.png",
+    "static/media/chatapp.jpg": "/static/media/chatapp.68f2f0e69ee3ae25c463.jpg",
+    "static/media/javascript.png": "/static/media/javascript.e90bb68d1b9ccc556f91.png",
+    "index.html": "/index.html",
+    "main.916675e7.css.map": "/static/css/main.916675e7.css.map",
+    "main.a0cb199e.js.map": "/static/js/main.a0cb199e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.916675e7.css",
+    "static/js/main.a0cb199e.js"
+  ]
+}
