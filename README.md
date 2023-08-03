@@ -1,3 +1,3 @@
 # Tanvi Gaikwad Portfolio
 
-tanvi-portfolio.netlify.app
+https://tanvi-portfolio.netlify.app
